@@ -13,6 +13,13 @@
  * nrm use taobao
 
  * 组件安装
+	 * 全局安装 npm install gulp -g
+	 * 1. 将安装包放在 /usr/local 下
+	 * 2. 可以直接在命令行里使用
+
+	 * 本地安装 npm install gulp
+	 * 1. 将安装包放在 ./node_modules 下（运行npm时所在的目录）
+	 * 2. 可以通过 require() 来引入本地安装的包
  * npm install gulp -g
  * npm install -g gulp-connect
  * npm install gulp-connect --save-dev
