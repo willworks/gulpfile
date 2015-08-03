@@ -7,6 +7,10 @@
  * Description: gulp自动化重载页面
  * Copyright (c) 2015 Kevin Zhong
 
+ * 解决问题
+ * 1. 在写前端界面代码时，想调试的时候需要配置一个Apache或者Nginx服务器
+ * 2. 每次修改代码都需要刷新一下，验证效果。
+
  * 切换淘宝镜像加速
  * npm http://npm.taobao.org/
  * npm install -g nrm
