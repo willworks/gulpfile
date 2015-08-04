@@ -1,0 +1,25 @@
+{
+  "name": "gulpfile",
+  "version": "1.0.0",
+  "description": "gulp自动化重载页面",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willworks/gulpfile.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "kevin.zhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willworks/gulpfile/issues"
+  },
+  "homepage": "https://github.com/willworks/gulpfile#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
