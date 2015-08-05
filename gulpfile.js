@@ -51,6 +51,7 @@ gulp.task('watch', function () {
 gulp.task('connect', function () {
   connect.server({
     root: 'www', //服务器目录
+    port: 8080, //指定端口，默认是8080
     livereload: true
   });
 });
