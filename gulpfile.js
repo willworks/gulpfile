@@ -11,10 +11,15 @@
  * 1. 在写前端界面代码时，想调试的时候需要配置一个Apache或者Nginx服务器
  * 2. 每次修改代码都需要刷新一下，验证效果。
 
- * 切换淘宝镜像加速
+ * 切换淘宝镜像加速 [node version manager]
  * npm http://npm.taobao.org/
  * npm install -g nrm
  * nrm use taobao
+
+ * 切换node版本nrm [npm registry manager]
+ * npm install -g nrm
+ * nrm ls //查看node所有版本
+ * nrm usr {verision}
 
  * 组件安装
 	 * 全局安装 npm install gulp -g
