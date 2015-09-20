@@ -1,5 +1,6 @@
 # gulpfile  
 LiveReload gulpfile  
+gulp实现页面修改自动重新加载
 
 ## 解决问题  
  - 在写前端界面代码时，想调试的时候需要配置一个Apache或者Nginx服务器  
