@@ -42,8 +42,8 @@
  */
 
 //引入插件
-var gulp = require('gulp');//引入基础库
-var connect = require('gulp-connect');//gulp-connect为gulp插件，用于启动一个Web Server
+var gulp = require('gulp'),//引入基础库
+    connect = require('gulp-connect');//gulp-connect为gulp插件，用于启动一个Web Server
 
 //创建watch任务去检测html文件,其定义了当html改动之后，去调用一个Gulp的Task
 
