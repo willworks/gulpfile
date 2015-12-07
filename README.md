@@ -14,15 +14,14 @@ gulp实现页面修改自动重新加载
 ## 切换node版本nrm  
  - npm install -g nrm  
  - nrm ls //查看node所有版本  
- - nrm usr {verision}  
+ - nrm use {verision}  
 
 ## 组件安装
-
  - npm install gulp -g  
  - npm install -g gulp-connect  
  - npm install gulp-connect --save-dev  
  - chrome安装LiveReload https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei  
- - npm i livereload -g  
+ - npm install livereload -g  
 
 ## 使用问题
  - Local gulp not found in ~ Try running: npm install gulp
