@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/willworks/gulpfile#readme",
   "dependencies": {
+    "browser-sync": "^2.11.0",
     "gulp": "^3.9.0",
     "gulp-livereload": "^3.8.1",
     "gulp-webserver": "^0.9.1",
